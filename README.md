@@ -1,6 +1,7 @@
 # Mjpeg Decoder NET
 
 Modified version of this repo [https://github.com/arndre/MjpegDecoder](https://github.com/arndre/MjpegDecoder)
+that is based in this project, not longer available (https://channel9.msdn.com/coding4fun/articles/MJPEG-Decode) 
 
 ### Use example
 
@@ -52,9 +53,9 @@ public partial class MainWindow : Window
 ```
 
 
-
-## C# Mjpeg Decoder
-Modified version of article on coding4fun, not available  (https://channel9.msdn.com/coding4fun/articles/MJPEG-Decoder)
+Original Repo readme:
+### C# Mjpeg Decoder
+Modified version of article on coding4fun (https://channel9.msdn.com/coding4fun/articles/MJPEG-Decoder)
  
  * Removed preprocessor directives for XNA, WINRT,...
  * Fixed frame drops 
